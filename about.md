@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 1. is it because it's a headline?
 
-[site-name](site-email)
+[e-mail](mailto:ohohoho@web.com)
