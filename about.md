@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 1. is it because it's a headline?
 
-[e-mail](mailto:ohohoho@web.com)
+[{{ site.email }}]({{ site.email }})
